@@ -1,0 +1,19 @@
+{
+    "name": "tcp-console",
+    "description": "TCP Console",
+    "version": "0.0.1",
+    "author": {
+        "name": "Prajwal Tuladhar",
+        "email": "praj@infynyxx.com",
+        "url": "http;//infynyxx.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "main": "./index.js",
+    "dependencies": {
+        "commander": ">=0.2.0"
+    },
+    "engines": {"0.4.x"}
+}
